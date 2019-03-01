@@ -87,9 +87,10 @@
     ]
   },
   "devDependencies": {
-    "babel-core": "^6.25.0",
+    "babel-core": "^6.26.3",
+    "babel-register": "^6.26.0",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
-    "babel-preset-env": "^1.6.1",
+    "babel-preset-env": "^1.7.0",
     "babelify": "^8.0.0",
     "browserify": "^16.0.0",
     "chai": "^4.1.1",
@@ -126,6 +127,7 @@
     "lodash.head": "^4.0.1",
     "lodash.reduce": "^4.6.0",
     "lodash.uniq": "^4.5.0",
+    "natives": "^1.1.6",
     "request": "^2.81.0",
     "request-promise-native": "^1.0.4",
     "tmp-file": "^2.0.1"
