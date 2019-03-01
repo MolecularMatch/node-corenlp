@@ -39,11 +39,6 @@
   ],
   "author": "Gerardo Bort",
   "license": "GPL-3.0",
-  "files": [
-    "dist",
-    "scripts",
-    "examples/runkit.js"
-  ],
   "bugs": {
     "url": "https://github.com/gerardobort/node-corenlp/issues"
   },
